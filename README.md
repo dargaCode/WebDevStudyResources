@@ -8,12 +8,16 @@
 *   Free Code Camp
     * 0 Exercise (0 hours)
 *   [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+    * Free - 4 Units, 4 lessons (3 hours)
+    * Subscription - 4 quizzes, 7 projects
 *   [Udemy: The Web Dev Bootcamp - Unit 21 - The Command Line](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### Git/GitHub
 *   Free Code Camp
     * 1 Exercise (3 hours)
 *   [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+    * Free - 4 Units, 4 lessons (2 hours)
+    * Subscription - 4 quizzes, 8 projects
 *   [Chacon & Straub: Pro Git](https://git-scm.com/book/)
 *   [Roger Dudler: Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 *   [Udemy: The Web Dev Bootcamp - Unit 37 - Git and GitHub](https://www.udemy.com/the-web-developer-bootcamp/)
@@ -24,6 +28,11 @@
 *   Free Code Camp
     * 58 Exercises (5 hours)
 *   [Codecademy: Make a Website](https://www.codecademy.com/learn/make-a-website)
+    * Free - 4 Units, 4 lessons (4 hours)
+    * Subscription - 4 quizzes, 4 projects
+*   [Codecademy: Learn HTML & CSS](https://www.codecademy.com/learn/web)
+    * Free - 6 Units, 12 lessons (7 hours)
+    * Subscription - 6 quizzes, 16 projects
 *   [Udemy: The Web Dev Bootcamp - Units 2-6](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### Responsive Design with Bootstrap
@@ -36,6 +45,8 @@
     * 102 Exercises (10 hours)
 *   [Khan Academy: Intro to JS - Units 1-14](https://www.khanacademy.org/computing/computer-programming/programming)
 *   [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/javascript)
+    * Free - 8 Units, 16 lessons (10 hours)
+    * Subscription - 9 quizzes, 1 project
 *   [Udemy: The Web Dev Bootcamp - Units 8-11](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### Object-Oriented and Functional Programming
@@ -49,6 +60,7 @@
     * 0 Exercises (0 hours)
 *   [Team Treehouse: Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
 *   [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
+    * Free - 3 Units, 3 lessons (4 hours)
 
 ### Manipulate the DOM with "Vanilla" JS
 *   Free Code Camp
@@ -61,7 +73,10 @@
 *   Free Code Camp
     * 18 Exercises (3 hours)
 *   [Codecademy: Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website)
+    * Free - 5 units, 5 lessons (5 hours)
 *   [Codecademy: Learn jQuery](https://www.codecademy.com/learn/jquery)
+    * Free - 5 Units, 5 lessons (3 hours)
+    * Subscription - 5 quizzes, 15 projects
 *   [Udemy: The Web Dev Bootcamp - Units 16-17](https://www.udemy.com/the-web-developer-bootcamp/)
 *   [Udemy: The Web Dev Bootcamp - Todo List Project](https://www.udemy.com/the-web-developer-bootcamp/)
 
