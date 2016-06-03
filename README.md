@@ -29,6 +29,9 @@
     * Free - Blog post
 *   [Chris Beams: How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     * Free - Blog post
+*   [Tuts+: Leveraging the Power of "git stash"](http://code.tutsplus.com/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988)
+    * Free - Blog post
+
 
 
 ## Front End Development Certification
