@@ -87,8 +87,16 @@
 ### Regular Expressions
 *   Free Code Camp
     * 3 exercises (30 Minutes)
+*   [Stack Overflow: Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
+    * Free - Overview
 *   [RegexOne: Regex Lessons](http://regexone.com/)
+    * Free - 16 lesssons, 8 exercises
+*   [Regexr: Learn, Build, and Test Regex](http://www.regexr.com/)
+    * Free - Reference, Cheat sheet, interactive sandbox
 *   [Regex Crossword: Regex Puzzles](https://regexcrossword.com/)
+    * Free - 10 difficulties, 55 challenges
+*   [JavaScript Kit: Regular Expressions Methods and Usage](http://www.javascriptkit.com/javatutors/redev3.shtml)
+    * Free - Cheatsheet, 6 functions
 
 ### Algorithm Scripting I ("Basic")
 *   Free Code Camp
