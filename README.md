@@ -83,7 +83,7 @@ Absolute path vs relative path in Linux/Unix
 *   Free Code Camp
     * 0 Exercises (0 hours)
 *   [Team Treehouse: Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
-    * ()
+    * Free - Blog post
 *   [Codecademy: Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
     * Free - 3 Units, 3 lessons (4 hours)
 
