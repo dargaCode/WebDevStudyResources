@@ -53,6 +53,20 @@ Absolute path vs relative path in Linux/Unix
     * Subscription - 6 quizzes, 16 projects
 *   [Udemy: The Web Dev Bootcamp - Units 2-6](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
+*   [NthMaster: Master the :nth-child Selectors](http://nthmaster.com/)
+    * Free - Cheat sheet, 11 examples
+*   [Liquidapsive: 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
+    * Free - 4 examples
+*   [Learn Layout: CSS fundamentals](http://learnlayout.com/)
+    * Free - 19 lessons
+*   [Barely Fitz: Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+    * Free - 9 lessons, interactive examples
+*   [CSS Tricks: Box Sizing](https://css-tricks.com/box-sizing/)
+    * Free - Blog post
+*   [Stack Overflow: When to use HTML <img> vs CSS background-image property?](http://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
+    * Free - Overview
+*   [Stack Overflow: How to Remove the Space Between inline-block Elements?](http://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-block-elements)
+    * Free - Tutorial
 
 ### Responsive Design with Bootstrap
 *   Free Code Camp
