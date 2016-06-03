@@ -11,6 +11,10 @@
     * Free - 4 Units, 4 lessons (3 hours)
     * Subscription - 4 quizzes, 7 projects
 *   [Udemy: The Web Dev Bootcamp - Unit 21 - The Command Line](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [The Linux Juggernaut:
+Absolute path vs relative path in Linux/Unix
+](http://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/)
+    * Free - Blog post
 
 ### Git/GitHub
 *   Free Code Camp
