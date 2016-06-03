@@ -1,5 +1,29 @@
 # Replacement Lessons for Free Code Camp
 
+## Table of Contents
+
+* [Important Workflow Items](#important-workflow-items)
+    * [The Command Line](#the-command-line)
+    * [Git/GitHub](#git/github)
+* [Front End Development Certification](#front-end-development-certification)
+    * [HTML5 and CSS](#html5-and-css)
+    * [Responsive Design with Bootstrap](#responsive-design-with-bootstrap)
+    * [Basic JavaScript](#basic-javascript)
+    * [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
+    * [Deploying Front-End Websites](#deploying-front-end-websites)
+    * [Manipulate the DOM with "Vanilla" JS](#manipulate-the-dom-with-vanilla-js)
+    * [Manipulate the DOM with jQuery](#manipulate-the-dom-with-jquery)
+    * [JSON APIs and Ajax](#json-apis-and-ajax)
+    * [Regular Expressions](#regular-expressions)
+    * [Algorithm Scripting I ("Basic")](#algorithm-scripting-i-basic)
+    * [Algorithm Scripting II ("Intermediate")](#algorithm-scripting-ii-intermediate)
+    * [Algorithm Scripting III ("Advanced")](#algorithm-scripting-iii-advanced)
+* [Back End Development Certification](#back-end-development-certification)
+    * [Testing and Debugging](#testing-and-debugging)
+    * [Deploying Back-End Web apps](#deploying-back-end-web-apps)
+    * [Node.js and Express.js](#nodejs-and-expressjs)
+    * [MongoDB](#mongodb)
+
 ## Important Workflow Items
 
 [Basic knowledge of The Command Line and Git/GitHub can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks which you'll pick up over a long period of time. For both these reasons, it's a good idea to tackle these topics as early as you can.]
