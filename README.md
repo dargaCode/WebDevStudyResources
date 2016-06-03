@@ -15,12 +15,21 @@
 ### Git/GitHub
 *   Free Code Camp
     * 1 Exercise (3 hours)
+*   [Code School: Try GitHub](https://try.github.io/levels/1/challenges/1)
+    * Free - 25 exercises (15 minutes)
 *   [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
     * Free - 4 Units, 4 lessons (2 hours)
     * Subscription - 4 quizzes, 8 projects
-*   [Chacon & Straub: Pro Git](https://git-scm.com/book/)
-*   [Roger Dudler: Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 *   [Udemy: The Web Dev Bootcamp - Unit 37 - Git and GitHub](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Chacon & Straub: Pro Git](https://git-scm.com/book/)
+    * Free - Online Book, 10 chapters
+*   [Roger Dudler: Simple Git Guide](http://rogerdudler.github.io/git-guide/)
+    * Free - Cheatsheet webpage
+*   [John Kary: "git add -p", The Most Powerful Git Feature You're not Using Yet](http://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/)
+    * Free - Blog post
+*   [Chris Beams: How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+    * Free - Blog post
+
 
 ## Front End Development Certification
 
