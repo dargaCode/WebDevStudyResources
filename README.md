@@ -95,6 +95,8 @@
     * 31 Exercises (5 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Responsive Design with Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
+*   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
+    * Free - Cheat sheet
 
 ### Basic JavaScript
 *   Free Code Camp
