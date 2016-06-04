@@ -167,22 +167,22 @@
 ### Algorithm Scripting I ("Basic")
 *   Free Code Camp
     * 17 Exercises (50 hours)
-*   [Code Wars Challenges - 8 kyu / Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-8&tags=Fundamentals&xids=completed)
+*   [Code Wars - 8 kyu / Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-8&tags=Fundamentals&xids=completed)
     * 161 Challenges
 
 ### Algorithm Scripting II ("Intermediate")
 *   Free Code Camp
     * 21 Exercises (50 hours)
-*   [Code Wars Challenges - 8 kyu / All Remaining Challenges](http://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=completed&beta=false&order_by=popularity+desc)
+*   [Code Wars - 8 kyu / All Remaining](http://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=completed&beta=false&order_by=popularity+desc)
     * 39 Challenges
-*   [Code Wars Challenges - 7 kyu / Algorithms](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Algorithms&xids=completed)
+*   [Code Wars - 7 kyu / Algorithms](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Algorithms&xids=completed)
     * 190 Challenges
 
 ### Algorithm Scripting III ("Advanced")
 *   Free Code Camp
     * 9 Exercises (50 hours)
-*   [Code Wars Challenges - 7 kyu / All Remaining Challenges](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=&xids=completed)
-    * 345 Challenges
+*   [Code Wars - 7 kyu / Remaining Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Fundamentals&xids=completed)
+    * 303 Challenges
 
 ## Back End Development Certification
 
