@@ -73,7 +73,7 @@
 *   [Codecademy - Learn HTML & CSS](https://www.codecademy.com/learn/web)
     * Free - 6 Units, 12 lessons (7 hours)
     * Subscription - 6 quizzes, 16 projects
-*   [Udemy - The Web Dev Bootcamp / Units 2-6](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 2-6: HTML & CSS](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
@@ -93,7 +93,7 @@
 ### Responsive Design with Bootstrap
 *   Free Code Camp
     * 31 Exercises (5 hours)
-*   [Udemy - The Web Dev Bootcamp / Unit 7: Responsive Design with Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 *   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
     * Free - Cheat sheet
@@ -106,7 +106,7 @@
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
     * Free - 8 Units, 16 lessons (10 hours)
     * Subscription - 9 quizzes, 1 project
-*   [Udemy - The Web Dev Bootcamp / Units 8-11](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 8-11: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 
 ### Object-Oriented and Functional Programming
@@ -128,11 +128,9 @@
 ### Manipulate the DOM with "Vanilla" JS
 *   Free Code Camp
     * 0 Exercises (0 hours)
-*   [Udemy - The Web Dev Bootcamp / Units 13-14](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
-*   [Udemy - The Web Dev Bootcamp / Score Keeper Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * ()
-*   [Udemy - The Web Dev Bootcamp / Color Game Project](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game Project](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 
 ### Manipulate the DOM with jQuery
@@ -143,9 +141,9 @@
 *   [Codecademy - Learn jQuery](https://www.codecademy.com/learn/jquery)
     * Free - 5 Units, 5 lessons (3 hours)
     * Subscription - 5 quizzes, 15 projects
-*   [Udemy - The Web Dev Bootcamp / Units 16-17](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 16-17: jQuery](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
-*   [Udemy - The Web Dev Bootcamp / Todo List Project](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Unit 18: Todo List Project](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 
 ### JSON APIs and Ajax
@@ -201,23 +199,13 @@
 ### Node.js and Express.js
 *   Free Code Camp
     * 5 Exercises (20 hours)
-*   [Udemy - The Web Dev Bootcamp / Units 22-36](https://www.udemy.com/the-web-developer-bootcamp/)
-    * ()
-*   [Udemy - The Web Dev Bootcamp / Basic Get Route Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * ()
-*   [Udemy - The Web Dev Bootcamp / Basic Post Route Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * ()
-*   [Udemy - The Web Dev Bootcamp / Movie API Project](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 
 ### MongoDB
 *   Free Code Camp
     * 1 Exercise (3 hours)
-*   [Udemy - The Web Dev Bootcamp / Units 27-35](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 26-31: Databases](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
-*   [Udemy - The Web Dev Bootcamp / Basic Database Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * ()
-*   [Udemy - The Web Dev Bootcamp / RESTful Blog Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * ()
-*   [Udemy - The Web Dev Bootcamp / YelpCamp Project](https://www.udemy.com/the-web-developer-bootcamp/)
+*   [Udemy - The Web Dev Bootcamp / Units 32-36: YelpCamp Project](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
