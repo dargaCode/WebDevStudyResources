@@ -102,7 +102,7 @@
 *   Free Code Camp
     * 102 Exercises (10 hours)
 *   [Khan Academy - Intro to JS / Units 1-14: Basic JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
-    * ()
+    * Free - 45 lessons, 27 exercises, 4 quizzes, 8 projects
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
     * Free - 8 Units, 16 lessons (10 hours)
     * Subscription - 9 quizzes, 1 project
@@ -113,7 +113,7 @@
 *   Free Code Camp
     * 13 Exercises (2 hours)
 *   [Khan Academy - Intro to JS / Units 15-16: Object-Oriented JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/objects/p/intro-to-objects)
-    * ()
+    * Free - 8 lessons, 6 exercises, 1 project
 *   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/)
     * ()
 
