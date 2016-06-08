@@ -33,9 +33,9 @@
     * 0 Exercise (0 hours)
 *   [Codecademy - Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
     * Free - 4 Units, 4 lessons (3 hours)
-    * Subscription - 4 quizzes, 7 projects
+    * Paid ($20/month) - 4 quizzes, 7 projects
 *   [Udemy - The Web Dev Bootcamp / Unit 21: The Command Line](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 5 lessons (45 minutes), 1 exercise
+    * Paid ($35 Course) - 5 lessons (45 minutes), 1 exercise
 *   [The Linux Juggernaut - Absolute path vs relative path in Linux/Unix](http://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/)
     * Free - Blog post
 
@@ -46,9 +46,9 @@
     * Free - 25 exercises (15 minutes)
 *   [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
     * Free - 4 Units, 4 lessons (2 hours)
-    * Subscription - 4 quizzes, 8 projects
+    * Paid ($20/month) - 4 quizzes, 8 projects
 *   [Udemy - The Web Dev Bootcamp / Unit 37: Git and GitHub](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 3 lessons (1 hour)
+    * Paid ($35 Course) - 3 lessons (1 hour)
 *   [Chacon & Straub - Pro Git](https://git-scm.com/book/)
     * Free - Online Book, 10 chapters
 *   [Roger Dudler - Simple Git Guide](http://rogerdudler.github.io/git-guide/)
@@ -69,12 +69,12 @@
     * 58 Exercises (5 hours)
 *   [Codecademy - Make a Website](https://www.codecademy.com/learn/make-a-website)
     * Free - 4 Units, 4 lessons (4 hours)
-    * Subscription - 4 quizzes, 4 projects
+    * Paid ($20/month) - 4 quizzes, 4 projects
 *   [Codecademy - Learn HTML & CSS](https://www.codecademy.com/learn/web)
-    * Free - 6 Units, 12 lessons (7 hours)
-    * Subscription - 6 quizzes, 16 projects
+    * Free ($35 Course) - 6 Units, 12 lessons (7 hours)
+    * Paid ($20/month) - 6 quizzes, 16 projects
 *   [Udemy - The Web Dev Bootcamp / Units 2-6: HTML & CSS](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 52 lessons (6 hours), 8 exercises
+    * Paid ($35 Course) - 52 lessons (6 hours), 8 exercises
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
 *   [Liquidapsive - 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
@@ -94,7 +94,7 @@
 *   Free Code Camp
     * 31 Exercises (5 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 11 lessons (2 hours), 2 exercises
+    * Paid ($35 Course) - 11 lessons (2 hours), 2 exercises
 *   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
     * Free - Cheat sheet
 
@@ -105,9 +105,9 @@
     * Free - 45 lessons, 27 exercises, 4 quizzes, 8 projects
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
     * Free - 8 Units, 16 lessons (10 hours)
-    * Subscription - 9 quizzes, 1 project
+    * Paid ($20/month) - 9 quizzes, 1 project
 *   [Udemy - The Web Dev Bootcamp / Units 8-11: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 47 lessons (5 hours), 17 exercises
+    * Paid ($35 Course) - 47 lessons (5 hours), 17 exercises
 
 ### Object-Oriented and Functional Programming
 *   Free Code Camp
@@ -115,7 +115,7 @@
 *   [Khan Academy - Intro to JS / Units 15-16: Object-Oriented JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/objects/p/intro-to-objects)
     * Free - 8 lessons, 6 exercises, 1 project
 *   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 7 lessons (45 minutes), 2 exercises
+    * Paid ($35 Course) - 7 lessons (45 minutes), 2 exercises
 
 ### Deploying Front-End Websites
 *   Free Code Camp
@@ -129,9 +129,9 @@
 *   Free Code Camp
     * 0 Exercises (0 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 15 lessons (2.5 hours), 4 exercises
+    * Paid ($35 Course) - 15 lessons (2.5 hours), 4 exercises
 *   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 9 lessons (3 hours)
+    * Paid ($35 Course) - 9 lessons (3 hours)
 
 ### Manipulate the DOM with jQuery
 *   Free Code Camp
@@ -140,11 +140,11 @@
     * Free - 5 units, 5 lessons (5 hours)
 *   [Codecademy - Learn jQuery](https://www.codecademy.com/learn/jquery)
     * Free - 5 Units, 5 lessons (3 hours)
-    * Subscription - 5 quizzes, 15 projects
+    * Paid ($20/month) - 5 quizzes, 15 projects
 *   [Udemy - The Web Dev Bootcamp / Units 16-17: jQuery](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 12 lessons (2 hours), 1 exercise
+    * Paid ($35 Course) - 12 lessons (2 hours), 1 exercise
 *   [Udemy - The Web Dev Bootcamp / Unit 18: Todo List Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 9 lessons (1 hour)
+    * Paid ($35 Course) - 9 lessons (1 hour)
 
 ### JSON APIs and Ajax
 *   Free Code Camp
@@ -168,21 +168,21 @@
 *   Free Code Camp
     * 17 Exercises (50 hours)
 *   [Code Wars - 8 kyu / Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-8&tags=Fundamentals&xids=completed)
-    * 161 Challenges
+    * Free - 161 Challenges
 
 ### Algorithm Scripting II ("Intermediate")
 *   Free Code Camp
     * 21 Exercises (50 hours)
 *   [Code Wars - 8 kyu / All Remaining](http://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=completed&beta=false&order_by=popularity+desc)
-    * 39 Challenges
+    * Free - 39 Challenges
 *   [Code Wars - 7 kyu / Algorithms](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Algorithms&xids=completed)
-    * 190 Challenges
+    * Free - 190 Challenges
 
 ### Algorithm Scripting III ("Advanced")
 *   Free Code Camp
     * 9 Exercises (50 hours)
 *   [Code Wars - 7 kyu / Remaining Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Fundamentals&xids=completed)
-    * 303 Challenges
+    * Free - 303 Challenges
 
 ## Back End Development Certification
 
@@ -194,18 +194,18 @@
 *   Free Code Camp
     * 0 Exercise (0 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 38: Deploying](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 6 lessons (1 hour)
+    * Paid ($35 Course) - 6 lessons (1 hour)
 
 ### Node.js and Express.js
 *   Free Code Camp
     * 5 Exercises (20 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 26 lessons (5 hours), 4 exercises
+    * Paid ($35 Course) - 26 lessons (5 hours), 4 exercises
 
 ### MongoDB
 *   Free Code Camp
     * 1 Exercise (3 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 26-31: Databases](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 32 lessons (6 hours), 1 exercise
+    * Paid ($35 Course) - 32 lessons (6 hours), 1 exercise
 *   [Udemy - The Web Dev Bootcamp / Units 32-36: YelpCamp Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * Paid - 26 exercises (5 hours)
+    * Paid ($35 Course) - 26 exercises (5 hours)
