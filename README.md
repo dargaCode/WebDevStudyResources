@@ -75,6 +75,15 @@
     * Paid ($20/month) - 6 quizzes, 16 projects
 *   [Udemy - The Web Dev Bootcamp / Units 2-6: HTML & CSS](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 52 lessons (6 hours), 8 exercises
+*   [YouTube / EJ Media - HTML Tutorial for Beginners
+](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
+    * Free - 29 lessons (1.5 hours)
+*   [YouTube / EJ Media - CSS Tutorial for Beginners
+](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
+    * Free - 60 lessons (4 hours)
+*   [YouTube / EJ Media - CSS Layout Tutorial
+](https://www.youtube.com/playlist?list=PLr6-GrHUlVf9ZleRsd5oTcrziNglndsXW)
+    * Free - 19 lessons (1.5 hours)
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
 *   [Liquidapsive - 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
@@ -108,6 +117,8 @@
     * Paid ($20/month) - 9 quizzes, 1 project
 *   [Udemy - The Web Dev Bootcamp / Units 8-11: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 47 lessons (5 hours), 17 exercises
+*   [YouTube / EJ Media- JavaScript Tutorial for Beginners / Lessons 1-24](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
+    * Free - 24 lessons (1.5 hours)
 
 ### Object-Oriented and Functional Programming
 *   Free Code Camp
@@ -132,6 +143,9 @@
     * Paid ($35 Course) - 15 lessons (2.5 hours), 4 exercises
 *   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game Project](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 9 lessons (3 hours)
+*   [YouTube / EJ Media - JavaScript Tutorial for Beginners / Lessons 25-51](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
+    * Free - 27 lessons (2 hours)
+
 
 ### Manipulate the DOM with jQuery
 *   Free Code Camp
@@ -145,6 +159,8 @@
     * Paid ($35 Course) - 12 lessons (2 hours), 1 exercise
 *   [Udemy - The Web Dev Bootcamp / Unit 18: Todo List Project](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 9 lessons (1 hour)
+*   [YouTube / EJ Media - jQuery Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
+    * Free - 43 lessons (2.5 hours)
 
 ### JSON APIs and Ajax
 *   Free Code Camp
