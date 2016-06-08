@@ -127,6 +127,8 @@
     * Free - 8 lessons, 6 exercises, 1 project
 *   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 7 lessons (45 minutes), 2 exercises
+*   [Youtube / Funfunfunction - Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+    * Free - 12 lessons (2.5 hours)
 
 ### Deploying Front-End Websites
 *   Free Code Camp
