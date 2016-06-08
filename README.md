@@ -35,7 +35,7 @@
     * Free - 4 Units, 4 lessons (3 hours)
     * Subscription - 4 quizzes, 7 projects
 *   [Udemy - The Web Dev Bootcamp / Unit 21: The Command Line](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (45 minutes)
+    * Paid - 5 lessons (45 minutes), 1 exercise
 *   [The Linux Juggernaut - Absolute path vs relative path in Linux/Unix](http://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/)
     * Free - Blog post
 
@@ -48,7 +48,7 @@
     * Free - 4 Units, 4 lessons (2 hours)
     * Subscription - 4 quizzes, 8 projects
 *   [Udemy - The Web Dev Bootcamp / Unit 37: Git and GitHub](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (1 hour)
+    * Paid - 3 lessons (1 hour)
 *   [Chacon & Straub - Pro Git](https://git-scm.com/book/)
     * Free - Online Book, 10 chapters
 *   [Roger Dudler - Simple Git Guide](http://rogerdudler.github.io/git-guide/)
@@ -74,7 +74,7 @@
     * Free - 6 Units, 12 lessons (7 hours)
     * Subscription - 6 quizzes, 16 projects
 *   [Udemy - The Web Dev Bootcamp / Units 2-6: HTML & CSS](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (6 hours)
+    * Paid - 52 lessons (6 hours), 8 exercises
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
 *   [Liquidapsive - 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
@@ -94,7 +94,7 @@
 *   Free Code Camp
     * 31 Exercises (5 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (2 hours)
+    * Paid - 11 lessons (2 hours), 2 exercises
 *   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
     * Free - Cheat sheet
 
@@ -107,7 +107,7 @@
     * Free - 8 Units, 16 lessons (10 hours)
     * Subscription - 9 quizzes, 1 project
 *   [Udemy - The Web Dev Bootcamp / Units 8-11: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (5 hours)
+    * Paid - 47 lessons (5 hours), 17 exercises
 
 ### Object-Oriented and Functional Programming
 *   Free Code Camp
@@ -115,7 +115,7 @@
 *   [Khan Academy - Intro to JS / Units 15-16: Object-Oriented JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/objects/p/intro-to-objects)
     * Free - 8 lessons, 6 exercises, 1 project
 *   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (45 minutes)
+    * Paid - 7 lessons (45 minutes), 2 exercises
 
 ### Deploying Front-End Websites
 *   Free Code Camp
@@ -129,9 +129,9 @@
 *   Free Code Camp
     * 0 Exercises (0 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (2.5 hours)
+    * Paid - 15 lessons (2.5 hours), 4 exercises
 *   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (3 hours)
+    * Paid - 9 lessons (3 hours)
 
 ### Manipulate the DOM with jQuery
 *   Free Code Camp
@@ -142,9 +142,9 @@
     * Free - 5 Units, 5 lessons (3 hours)
     * Subscription - 5 quizzes, 15 projects
 *   [Udemy - The Web Dev Bootcamp / Units 16-17: jQuery](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (2 hours)
+    * Paid - 12 lessons (2 hours), 1 exercise
 *   [Udemy - The Web Dev Bootcamp / Unit 18: Todo List Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (1 hour)
+    * Paid - 9 lessons (1 hour)
 
 ### JSON APIs and Ajax
 *   Free Code Camp
@@ -194,18 +194,18 @@
 *   Free Code Camp
     * 0 Exercise (0 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 38: Deploying](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (1 hour)
+    * Paid - 6 lessons (1 hour)
 
 ### Node.js and Express.js
 *   Free Code Camp
     * 5 Exercises (20 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (5 hours)
+    * Paid - 26 lessons (5 hours), 4 exercises
 
 ### MongoDB
 *   Free Code Camp
     * 1 Exercise (3 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 26-31: Databases](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (6 hours)
+    * Paid - 32 lessons (6 hours), 1 exercise
 *   [Udemy - The Web Dev Bootcamp / Units 32-36: YelpCamp Project](https://www.udemy.com/the-web-developer-bootcamp/)
-    * (5 hours)
+    * Paid - 26 exercises (5 hours)
