@@ -202,6 +202,16 @@
 *   [Code Wars - 7 kyu / Remaining Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Fundamentals&xids=completed)
     * Free - 303 Challenges
 
+### Intermediate JavaScript
+*   Free Code Camp
+    * 0 lessons (0 hours)
+*   [YouTube / LearnCode.Academy - JavaScript is Weird... and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+    * Free - 5 lessons (0.5 hours)
+*   [YouTube / Tony Alice - JavaScript: The Weird Parts (Preview)](https://youtu.be/Bv_5Zv5c-Ts)
+    * Free - 31 lessons (3.5 hours)
+*   [Udemy / Tony Alicea - Javascript: The Weird Parts](http://learnwebdev.net/)
+    * Paid ($19 Course) - 80 lessons (11.5 hours)
+
 ## Back End Development Certification
 
 ### Testing and Debugging
