@@ -94,8 +94,8 @@
     * Free - 9 lessons, interactive examples
 *   [CSS Tricks - Box Sizing](https://css-tricks.com/box-sizing/)
     * Free - Blog post
-*   [Stack Overflow - When to use HTML <img> vs CSS background-image property?](http://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
-    * Free - Overview
+*   [Stack Overflow - When to use HTML &lt;img&gt; vs CSS background-image property?](http://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
+    * Free - Tutorial
 *   [Stack Overflow - How to Remove the Space Between inline-block Elements?](http://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-block-elements)
     * Free - Tutorial
 
@@ -117,8 +117,18 @@
     * Paid ($20/month) - 9 quizzes, 1 project
 *   [Udemy - The Web Dev Bootcamp / Units 8-11: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 47 lessons (5 hours), 17 exercises
-*   [YouTube / EJ Media- JavaScript Tutorial for Beginners / Lessons 1-24](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
+*   [YouTube / EJ Media - JavaScript Tutorial for Beginners / Lessons 1-24](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
     * Free - 24 lessons (1.5 hours)
+*   [James Padolsey - Truthy and Falsey](http://james.padolsey.com/javascript/truthy-falsey/)
+    * Free - Blog post
+*   [Wikipedia - Immediately-Invoked Function Expressions](https://en.wikipedia.org/wiki/Immediately-invoked_function_expression)
+    * Free - Blog post
+*   [2ality - Initializing an Array with Values](http://www.2ality.com/2013/11/initializing-arrays.html)
+    * Free - Blog post
+*   [Stack Overflow - Is 'switch(true){...' valid JavaScript?](http://stackoverflow.com/questions/14118996/is-switchtrue-valid-javascript)
+    * Free - Tutorial
+*   [Douglas Crockford - Code Conventions for JavaScript](http://javascript.crockford.com/code.html)
+    * Free - Blog post
 
 ### Object-Oriented and Functional Programming
 *   Free Code Camp
@@ -127,8 +137,12 @@
     * Free - 8 lessons, 6 exercises, 1 project
 *   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/)
     * Paid ($35 Course) - 7 lessons (45 minutes), 2 exercises
+*   [Mind About JS - The Three JavaScript Musketeers](http://mindaboutjs.com/2015/07/18/the-three-javascript-musketeers/)
+    * Free - Blog post
 *   [Youtube / Funfunfunction - Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     * Free - 12 lessons (2.5 hours)
+*   [Nathan Friedly - Objects, Arrays, and Array-Like Objects](http://www.nfriedly.com/techblog/2009/06/advanced-javascript-objects-arrays-and-array-like-objects/)
+    * Free - Blog post
 
 ### Deploying Front-End Websites
 *   Free Code Camp
@@ -147,7 +161,6 @@
     * Paid ($35 Course) - 9 lessons (3 hours)
 *   [YouTube / EJ Media - JavaScript Tutorial for Beginners / Lessons 25-51](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
     * Free - 27 lessons (2 hours)
-
 
 ### Manipulate the DOM with jQuery
 *   Free Code Camp
@@ -181,6 +194,8 @@
     * Free - 10 difficulties, 55 challenges
 *   [JavaScript Kit - Regular Expressions Methods and Usage](http://www.javascriptkit.com/javatutors/redev3.shtml)
     * Free - Cheatsheet, 6 functions
+*   [Regex Guru - Replacement Text Syntax for JavaScript's String.replace()](http://www.regexguru.com/2010/06/replacement-text-syntax-for-javascripts-stringreplace/)
+    * Free - Blog Post
 
 ### Algorithm Scripting I ("Basic")
 *   Free Code Camp
@@ -211,12 +226,20 @@
     * Free - 31 lessons (3.5 hours)
 *   [Udemy / Tony Alicea - Javascript: The Weird Parts](http://learnwebdev.net/)
     * Paid ($19 Course) - 80 lessons (11.5 hours)
+*   [2ality - Apply and Arrays: 3 Tricks](http://www.2ality.com/2012/07/apply-tricks.html)
+    * Free - Blog post
+*   [Cool Coder - Everything You Need to Know about JavaScript Scope](http://www.coolcoder.in/2014/03/everything-you-need-to-know-about.html)
+    * Free - Blog post
+*   [2ality - Tail Call Optimization in ES6](http://www.2ality.com/2015/06/tail-call-optimization.html)
+    * Free - Blog post
 
 ## Back End Development Certification
 
 ### Testing and Debugging
 *   Free Code Camp
     * 2 Exercises (15 minutes)
+*   [Code School - Discover Chrome DevTools](https://www.codeschool.com/courses/discover-devtools)
+    * Free - 7 units, 17 lessons (45 minutes), 81 exercises
 
 ### Deploying Back-End Web apps
 *   Free Code Camp
