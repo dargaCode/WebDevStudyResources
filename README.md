@@ -110,7 +110,7 @@
 ### Basic JavaScript
 *   Free Code Camp
     * 102 Exercises (10 hours)
-*   [Khan Academy - Intro to JS / Units 1-14: Basic JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
+*   [Khan Academy - Intro to JS / Units 1-14: Basic JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/p/making-drawings-with-code)
     * Free - 45 lessons, 27 exercises, 4 quizzes, 8 projects
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
     * Free - 8 Units, 16 lessons (10 hours)
