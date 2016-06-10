@@ -1,11 +1,10 @@
-# Replacement Lessons for Free Code Camp
+# Web Development Study Resources
 
 ## Table of Contents
-
 * [Important Workflow Items](#important-workflow-items)
     * [The Command Line](#the-command-line)
     * [Git and GitHub](#git-and-github)
-* [Front End Development Certification](#front-end-development-certification)
+* [Front-End Development](#front-end-development)
     * [HTML5 and CSS](#html5-and-css)
     * [Responsive Design with Bootstrap](#responsive-design-with-bootstrap)
     * [Basic JavaScript](#basic-javascript)
@@ -19,19 +18,20 @@
     * [Algorithm Scripting II ("Intermediate")](#algorithm-scripting-ii-intermediate)
     * [Algorithm Scripting III ("Advanced")](#algorithm-scripting-iii-advanced)
     * [Intermediate JavaScript](#intermediate-javascript)
-* [Back End Development Certification](#back-end-development-certification)
+* [Back-End Development](#back-end-development)
     * [Testing and Debugging](#testing-and-debugging)
     * [Deploying Back-End Web apps](#deploying-back-end-web-apps)
     * [Node.js and Express.js](#nodejs-and-expressjs)
     * [MongoDB](#mongodb)
 
 ## Important Workflow Items
+Both Command Line and Git/GitHub are usually presented toward the end of these resources, but I learned them beforehand and I'm glad I did.
 
-[Basic knowledge of The Command Line and Git/GitHub can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks which you'll pick up over a long period of time. For both these reasons, it's a good idea to tackle these topics as early as you can.]
+Basic knowledge of The Command Line and Git/GitHub can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks which you'll pick up over a long period of time. For both these reasons, it's a good idea to tackle these topics as early as you can.
+
+Checking in code and deploying your own webpages will also allow you to get away from CodePen, Cloud9, and other online IDEs, which will require you to make sure all of your scripts are integrated properly etc. This is a lot more difficult at first, but extremely educational.
 
 ### The Command Line
-*   Free Code Camp
-    * 0 Exercise (0 hours)
 *   [Codecademy - Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
     * Free - 4 Units, 4 Lessons (3 hours)
     * Paid ($20/Month) - 4 Quizzes, 7 Projects
@@ -41,8 +41,6 @@
     * Free - Blog Post
 
 ### Git and GitHub
-*   Free Code Camp
-    * 1 Exercise (3 hours)
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
     * Free - 25 Exercises (15 minutes)
 *   [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
@@ -61,13 +59,9 @@
 *   [Tuts+ - Leveraging the Power of "git stash"](http://code.tutsplus.com/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988)
     * Free - Blog Post
 
-
-
-## Front End Development Certification
+## Front-End Development
 
 ### HTML5 and CSS
-*   Free Code Camp
-    * 58 Exercises (5 hours)
 *   [Codecademy - Make a Website](https://www.codecademy.com/learn/make-a-website)
     * Free - 4 Units, 4 Lessons (4 hours)
     * Paid ($20/Month) - 4 Quizzes, 4 Projects
@@ -101,16 +95,12 @@
     * Free - Tutorial
 
 ### Responsive Design with Bootstrap
-*   Free Code Camp
-    * 31 Exercises (5 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3908606)
     * Paid ($35 Course) - 11 Lessons (2 hours), 2 Exercises
 *   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
     * Free - Cheat sheet
 
 ### Basic JavaScript
-*   Free Code Camp
-    * 102 Exercises (10 hours)
 *   [Khan Academy - Intro to JS / Units 1-14: Basic JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/p/making-drawings-with-code)
     * Free - 45 Lessons, 27 Exercises, 4 Quizzes, 8 Projects
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
@@ -132,8 +122,6 @@
     * Free - Blog Post
 
 ### Object-Oriented and Functional Programming
-*   Free Code Camp
-    * 13 Exercises (2 hours)
 *   [Khan Academy - Intro to JS / Units 15-16: Object-Oriented JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/objects/p/intro-to-objects)
     * Free - 8 Lessons, 6 Exercises, 1
 *   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861416)
@@ -146,16 +134,12 @@
     * Free - Blog Post
 
 ### Deploying Front-End Websites
-*   Free Code Camp
-    * 0 Exercises (0 hours)
 *   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
     * Free - Blog Post
 *   [Codecademy - Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
     * Free - 3 Units, 3 Lessons (4 hours)
 
 ### Manipulate the DOM with "Vanilla" JS
-*   Free Code Camp
-    * 0 Exercises (0 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861434)
     * Paid ($35 Course) - 15 Lessons (2.5 hours), 4 Exercises
 *   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/5250406)
@@ -164,8 +148,6 @@
     * Free - 27 Lessons (2 hours)
 
 ### Manipulate the DOM with jQuery
-*   Free Code Camp
-    * 18 Exercises (3 hours)
 *   [Codecademy - Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website)
     * Free - 5 Units, 5 Lessons (5 hours)
 *   [Codecademy - Learn jQuery](https://www.codecademy.com/learn/jquery)
@@ -179,12 +161,8 @@
     * Free - 43 Lessons (2.5 hours)
 
 ### JSON APIs and Ajax
-*   Free Code Camp
-    * 7 Exercises (2 hours)
 
 ### Regular Expressions
-*   Free Code Camp
-    * 3 Exercises (30 Minutes)
 *   [Stack Overflow - Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
     * Free - Overview
 *   [RegexOne - Regex Lessons](http://regexone.com/)
@@ -199,28 +177,20 @@
     * Free - Blog Post
 
 ### Algorithm Scripting I ("Basic")
-*   Free Code Camp
-    * 17 challenges (50 hours)
 *   [Code Wars - 8 kyu / Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-8&tags=Fundamentals&xids=completed)
     * Free - 161 Challenges
 
 ### Algorithm Scripting II ("Intermediate")
-*   Free Code Camp
-    * 21 challenges (50 hours)
 *   [Code Wars - 8 kyu / All Remaining](http://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=completed&beta=false&order_by=popularity+desc)
     * Free - 39 Challenges
 *   [Code Wars - 7 kyu / Algorithms](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Algorithms&xids=completed)
     * Free - 190 Challenges
 
 ### Algorithm Scripting III ("Advanced")
-*   Free Code Camp
-    * 9 challenges (50 hours)
 *   [Code Wars - 7 kyu / Remaining Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Fundamentals&xids=completed)
     * Free - 303 Challenges
 
 ### Intermediate JavaScript
-*   Free Code Camp
-    * 0 Lessons (0 hours)
 *   [YouTube / LearnCode.Academy - JavaScript is Weird... and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     * Free - 5 Lessons (0.5 hours)
 *   [YouTube / Tony Alice - JavaScript: The Weird Parts (Preview)](https://youtu.be/Bv_5Zv5c-Ts)
@@ -234,29 +204,21 @@
 *   [2ality - Tail Call Optimization in ES6](http://www.2ality.com/2015/06/tail-call-optimization.html)
     * Free - Blog Post
 
-## Back End Development Certification
+## Back-End Development
 
 ### Testing and Debugging
-*   Free Code Camp
-    * 2 Exercises (15 minutes)
 *   [Code School - Discover Chrome DevTools](https://www.codeschool.com/courses/discover-devtools)
     * Free - 7 Units, 17 Lessons (45 minutes), 81 Exercises
 
 ### Deploying Back-End Web apps
-*   Free Code Camp
-    * 0 Exercise (0 hours)
 *   [Udemy - The Web Dev Bootcamp / Unit 38: Deploying](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/4473706)
     * Paid ($35 Course) - 6 Lessons (1 hour)
 
 ### Node.js and Express.js
-*   Free Code Camp
-    * 5 Exercises (20 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861568)
     * Paid ($35 Course) - 26 Lessons (5 hours), 4 Exercises
 
 ### MongoDB
-*   Free Code Camp
-    * 1 Exercise (3 hours)
 *   [Udemy - The Web Dev Bootcamp / Units 26-31: Databases](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861630)
     * Paid ($35 Course) - 32 Lessons (6 hours), 1 Exercise
 *   [Udemy - The Web Dev Bootcamp / Units 32-36: YelpCamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861676)
