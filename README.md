@@ -4,7 +4,7 @@
 
 * [Important Workflow Items](#important-workflow-items)
     * [The Command Line](#the-command-line)
-    * [Git/GitHub](#git/github)
+    * [Git and GitHub](#git-and-github)
 * [Front End Development Certification](#front-end-development-certification)
     * [HTML5 and CSS](#html5-and-css)
     * [Responsive Design with Bootstrap](#responsive-design-with-bootstrap)
@@ -40,7 +40,7 @@
 *   [The Linux Juggernaut - Absolute path vs relative path in Linux/Unix](http://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/)
     * Free - Blog Post
 
-### Git/GitHub
+### Git and GitHub
 *   Free Code Camp
     * 1 Exercise (3 hours)
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
