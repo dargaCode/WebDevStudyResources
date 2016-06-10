@@ -18,6 +18,7 @@
     * [Algorithm Scripting I ("Basic")](#algorithm-scripting-i-basic)
     * [Algorithm Scripting II ("Intermediate")](#algorithm-scripting-ii-intermediate)
     * [Algorithm Scripting III ("Advanced")](#algorithm-scripting-iii-advanced)
+    * [Intermediate JavaScript](#intermediate-javascript)
 * [Back End Development Certification](#back-end-development-certification)
     * [Testing and Debugging](#testing-and-debugging)
     * [Deploying Back-End Web apps](#deploying-back-end-web-apps)
