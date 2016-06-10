@@ -42,7 +42,7 @@
 ### Git/GitHub
 *   Free Code Camp
     * 1 Exercise (3 hours)
-*   [Code School - Try GitHub](https://try.github.io/levels/1/challenges/1)
+*   [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
     * Free - 25 exercises (15 minutes)
 *   [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
     * Free - 4 Units, 4 lessons (2 hours)
@@ -88,7 +88,7 @@
     * Free - Cheat sheet, 11 examples
 *   [Liquidapsive - 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
     * Free - 4 examples
-*   [Learn Layout - CSS fundamentals](http://learnlayout.com/)
+*   [Learn Layout](http://learnlayout.com/)
     * Free - 19 lessons
 *   [Barely Fitz - Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
     * Free - 9 lessons, interactive examples
