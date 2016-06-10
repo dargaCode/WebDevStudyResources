@@ -4,23 +4,22 @@
 * [Important Workflow Items](#important-workflow-items)
     * [The Command Line](#the-command-line)
     * [Git and GitHub](#git-and-github)
+    * [Chrome DevTools](#chrome-devtools)
 * [Front-End Development](#front-end-development)
-    * [HTML5 and CSS](#html5-and-css)
-    * [Responsive Design with Bootstrap](#responsive-design-with-bootstrap)
+    * [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
     * [Basic JavaScript](#basic-javascript)
-    * [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
+    * [Functional JavaScript](#functional-javascript)
     * [Deploying Front-End Websites](#deploying-front-end-websites)
-    * [Manipulate the DOM with "Vanilla" JS](#manipulate-the-dom-with-vanilla-js)
+    * [Manipulate the DOM with "Vanilla" JavaScript](#manipulate-the-dom-with-vanilla-javascript)
     * [Manipulate the DOM with jQuery](#manipulate-the-dom-with-jquery)
-    * [JSON APIs and Ajax](#json-apis-and-ajax)
     * [Regular Expressions](#regular-expressions)
-    * [Algorithm Scripting I ("Basic")](#algorithm-scripting-i-basic)
-    * [Algorithm Scripting II ("Intermediate")](#algorithm-scripting-ii-intermediate)
-    * [Algorithm Scripting III ("Advanced")](#algorithm-scripting-iii-advanced)
+    * [JavaScript Challenges I](#javascript-challenges-i)
+    * [JavaScript Challenges II](#javascript-challenges-ii)
+    * [JavaScript Challenges III](#javascript-challenges-iii)
     * [Intermediate JavaScript](#intermediate-javascript)
 * [Back-End Development](#back-end-development)
-    * [Testing and Debugging](#testing-and-debugging)
-    * [Deploying Back-End Web apps](#deploying-back-end-web-apps)
+    * [Deploying Back-End Web Apps](#deploying-back-end-web-apps)
     * [Node.js and Express.js](#nodejs-and-expressjs)
     * [MongoDB](#mongodb)
 
@@ -59,9 +58,13 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Tuts+ - Leveraging the Power of "git stash"](http://code.tutsplus.com/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988)
     * Free - Blog Post
 
+### Chrome DevTools
+*   [Code School - Discover Chrome DevTools](https://www.codeschool.com/courses/discover-devtools)
+    * Free - 7 Units, 17 Lessons (45 minutes), 81 Exercises
+
 ## Front-End Development
 
-### HTML5 and CSS
+### HTML and CSS
 *   [Codecademy - Make a Website](https://www.codecademy.com/learn/make-a-website)
     * Free - 4 Units, 4 Lessons (4 hours)
     * Paid ($20/Month) - 4 Quizzes, 4 Projects
@@ -94,20 +97,20 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Stack Overflow - How to Remove the Space Between inline-block Elements?](http://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-block-elements)
     * Free - Tutorial
 
-### Responsive Design with Bootstrap
+### Bootstrap
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3908606)
     * Paid ($35 Course) - 11 Lessons (2 hours), 2 Exercises
 *   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
     * Free - Cheat sheet
 
 ### Basic JavaScript
-*   [Khan Academy - Intro to JS / Units 1-14: Basic JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/p/making-drawings-with-code)
-    * Free - 45 Lessons, 27 Exercises, 4 Quizzes, 8 Projects
+*   [Khan Academy - Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
+    * Free - 53 Lessons, 33 Exercises, 4 Quizzes, 9 Projects
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
     * Free - 8 Units, 16 Lessons (10 hours)
     * Paid ($20/Month) - 9 Quizzes, 1
-*   [Udemy - The Web Dev Bootcamp / Units 8-11: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861318)
-    * Paid ($35 Course) - 47 Lessons (5 hours), 17 Exercises
+*   [Udemy - The Web Dev Bootcamp / Units 8-12: JavaScript](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861318)
+    * Paid ($35 Course) - 54 Lessons (6 hours), 19 Exercises
 *   [YouTube / EJ Media - JavaScript Tutorial for Beginners / Lessons 1-24](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
     * Free - 24 Lessons (1.5 hours)
 *   [James Padolsey - Truthy and Falsey](http://james.padolsey.com/javascript/truthy-falsey/)
@@ -121,17 +124,11 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Douglas Crockford - Code Conventions for JavaScript](http://javascript.crockford.com/code.html)
     * Free - Blog Post
 
-### Object-Oriented and Functional Programming
-*   [Khan Academy - Intro to JS / Units 15-16: Object-Oriented JavaScript](https://www.khanacademy.org/computing/computer-programming/programming/objects/p/intro-to-objects)
-    * Free - 8 Lessons, 6 Exercises, 1
-*   [Udemy - The Web Dev Bootcamp / Unit 12: Objects](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861416)
-    * Paid ($35 Course) - 7 Lessons (45 minutes), 2 Exercises
+### Functional JavaScript
 *   [Mind About JS - The Three JavaScript Musketeers](http://mindaboutjs.com/2015/07/18/the-three-javascript-musketeers/)
     * Free - Blog Post
 *   [Youtube / Funfunfunction - Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     * Free - 12 Lessons (2.5 hours)
-*   [Nathan Friedly - Objects, Arrays, and Array-Like Objects](http://www.nfriedly.com/techblog/2009/06/advanced-javascript-objects-arrays-and-array-like-objects/)
-    * Free - Blog Post
 
 ### Deploying Front-End Websites
 *   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
@@ -139,7 +136,7 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Codecademy - Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
     * Free - 3 Units, 3 Lessons (4 hours)
 
-### Manipulate the DOM with "Vanilla" JS
+### Manipulate the DOM with "Vanilla" JavaScript
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861434)
     * Paid ($35 Course) - 15 Lessons (2.5 hours), 4 Exercises
 *   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/5250406)
@@ -160,8 +157,6 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [YouTube / EJ Media - jQuery Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
     * Free - 43 Lessons (2.5 hours)
 
-### JSON APIs and Ajax
-
 ### Regular Expressions
 *   [Stack Overflow - Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
     * Free - Overview
@@ -176,17 +171,17 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Regex Guru - Replacement Text Syntax for JavaScript's String.replace()](http://www.regexguru.com/2010/06/replacement-text-syntax-for-javascripts-stringreplace/)
     * Free - Blog Post
 
-### Algorithm Scripting I ("Basic")
+### JavaScript Challenges I
 *   [Code Wars - 8 kyu / Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-8&tags=Fundamentals&xids=completed)
     * Free - 161 Challenges
 
-### Algorithm Scripting II ("Intermediate")
+### JavaScript Challenges II
 *   [Code Wars - 8 kyu / All Remaining](http://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=completed&beta=false&order_by=popularity+desc)
     * Free - 39 Challenges
 *   [Code Wars - 7 kyu / Algorithms](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Algorithms&xids=completed)
     * Free - 190 Challenges
 
-### Algorithm Scripting III ("Advanced")
+### JavaScript Challenges III
 *   [Code Wars - 7 kyu / Remaining Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Fundamentals&xids=completed)
     * Free - 303 Challenges
 
@@ -201,16 +196,14 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 *   [Cool Coder - Everything You Need to Know about JavaScript Scope](http://www.coolcoder.in/2014/03/everything-you-need-to-know-about.html)
     * Free - Blog Post
+*   [Nathan Friedly - Objects, Arrays, and Array-Like Objects](http://www.nfriedly.com/techblog/2009/06/advanced-javascript-objects-arrays-and-array-like-objects/)
+    * Free - Blog Post
 *   [2ality - Tail Call Optimization in ES6](http://www.2ality.com/2015/06/tail-call-optimization.html)
     * Free - Blog Post
 
 ## Back-End Development
 
-### Testing and Debugging
-*   [Code School - Discover Chrome DevTools](https://www.codeschool.com/courses/discover-devtools)
-    * Free - 7 Units, 17 Lessons (45 minutes), 81 Exercises
-
-### Deploying Back-End Web apps
+### Deploying Back-End Web Apps
 *   [Udemy - The Web Dev Bootcamp / Unit 38: Deploying](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/4473706)
     * Paid ($35 Course) - 6 Lessons (1 hour)
 
