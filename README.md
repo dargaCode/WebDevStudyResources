@@ -1,4 +1,11 @@
 # Web Development Study Resources
+In my opinion, learning how to program itself isn't nearly as hard as deciding what to study, and where, and when.
+
+With that in mind, here's a list of the webdev resources I've found most useful thus far.
+
+The topics are sorted roughly chronologically, based on [several bootcamp curricula i've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience.
+
+There are some paid resources in this list, but I've only included the ones I've found valuable and I've tried to mark them clearly. I don't receive any referral bonuses or anything of that nature.
 
 ## Table of Contents
 * [Important Workflow Items](#important-workflow-items)
@@ -30,6 +37,10 @@ Basic knowledge of The Command Line and Git/GitHub can do a lot to improve day-t
 Checking in code and deploying your own webpages will also allow you to get away from CodePen, Cloud9, and other online IDEs, which will require you to make sure all of your scripts are integrated properly etc. This is a lot more difficult at first, but extremely educational.
 
 ### The Command Line
+Typing text commands into the console seems extremely arcane at first, but becomes familiar surprisingly quickly.
+
+It's useful for Git, Node development, and lots of other things, and honestly it also just feels cool and fun and hacker-y.
+
 *   [Codecademy - Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
     * Free - 4 Units, 4 Lessons (3 hours)
     * Paid ($20/Month) - 4 Quizzes, 7 Projects
@@ -39,6 +50,8 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 
 ### Git and GitHub
+Back up your code to source control, collaborate with others, and show off your work.
+
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
     * Free - 25 Exercises (15 minutes)
 *   [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)
@@ -58,8 +71,15 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 
 ## Front-End Development
+Most simply, front-end refers to the content that is actually presented on a webpage. The text, the images, the colors.
+
+For example: A portfolio website that contains your bio, links to all your projects, and photos.
 
 ### HTML and CSS
+Build the structure of a webpage with HTML, and use CSS to dictate the layout and appearance.
+
+I originally tried learning HTML a long time ago, and was pleasantly surprised to see that all the layout is now handled by CSS rules rather than horrible nested tables and frames.
+
 *   [Codecademy - Make a Website](https://www.codecademy.com/learn/make-a-website)
     * Free - 4 Units, 4 Lessons (4 hours)
     * Paid ($20/Month) - 4 Quizzes, 4 Projects
@@ -97,18 +117,30 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Tutorial
 
 ### Deploying Front-End Websites
+Take your webpages and actually put them on the internet where other people can see and use them.
+
+This will allow you to break out of online editors and begin using a local text editor etc.
+
 *   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
     * Free - Blog Post
 *   [Codecademy - Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
     * Free - 3 Units, 3 Lessons (4 hours)
 
 ### Bootstrap
+Boostrap is mainly a ton of pre-built CSS classes, that you can slap onto your HTML instead of doing your own styling.
+
+I originally tried to learn it before understanding CSS well, which ended up being very confusing and frustrating. But now I do appreciate its usefulness for making quick prototypes etc.
+
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3908606)
     * Paid ($35 Course) - 11 Lessons (2 hours), 2 Exercises
 *   [Hacker Themes - Bootstrap 4 Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
     * Free - Cheat sheet
 
 ### Basic JavaScript
+JS is the language that lets you reach into a webpge and mess with the content of the HTML and the styling of the CSS.
+
+Before doing that, it's a good idea to learn its basics, just like any other non-web programming language.
+
 *   [Khan Academy - Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
     * Free - 53 Lessons, 33 Exercises, 4 Quizzes, 9 Projects
 *   [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/javascript)
@@ -134,12 +166,20 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 
 ### Functional JavaScript
+Using functional programming is one of those weird things in programming that's actually more easily done than described.
+
+Most of what FP means early on is just using functions to iterate through arrays, rather than writing loops all over the place.
+
 *   [Mind About JS - The Three JavaScript Musketeers](http://mindaboutjs.com/2015/07/18/the-three-javascript-musketeers/)
     * Free - Blog Post
 *   [Youtube / Funfunfunction - Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     * Free - 12 Lessons (2.5 hours)
 
 ### Manipulate the DOM with "Vanilla" JavaScript
+The DOM is another concept that sounds scarier than it is.
+
+The Document-Object Model is just the content of a webpage, parsed into a JS Object so it can be manipulated via code.
+
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861434)
     * Paid ($35 Course) - 15 Lessons (2.5 hours), 4 Exercises
 *   [Udemy - The Web Dev Bootcamp / Unit 15: Color Game](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/5250406)
@@ -148,6 +188,8 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - 27 Lessons (2 hours)
 
 ### Manipulate the DOM with jQuery
+jQuery is a JavaScript library that mainly makes it simpler to manipulate the DOM without writing so much JS code.
+
 *   [Codecademy - Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website)
     * Free - 5 Units, 5 Lessons (5 hours)
 *   [Codecademy - Learn jQuery](https://www.codecademy.com/learn/jquery)
@@ -161,6 +203,10 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - 43 Lessons (2.5 hours)
 
 ### Regular Expressions
+Regular Expressions (Regex) are a way to easily parse some text and find all the places where a pattern is matched.
+
+For example, you could match all the email addresses in a string, or all the phone numbers.
+
 *   [Stack Overflow - Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
     * Free - Overview
 *   [RegexOne - Regex Lessons](http://regexone.com/)
@@ -175,20 +221,28 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 
 ### JavaScript Challenges I
+There are all kinds of useful topics that come up on Code Wars exercises.
+
 *   [Code Wars - 8 kyu / Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-8&tags=Fundamentals&xids=completed)
     * Free - 161 Challenges
 
 ### JavaScript Challenges II
+Seeing everyone else's solutions (and discussions about them) is a great way to pick up new concepts and tricks.
+
 *   [Code Wars - 8 kyu / All Remaining](http://www.codewars.com/kata/search/javascript?q=&r[]=-8&xids=completed&beta=false&order_by=popularity+desc)
     * Free - 39 Challenges
 *   [Code Wars - 7 kyu / Algorithms](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Algorithms&xids=completed)
     * Free - 190 Challenges
 
 ### JavaScript Challenges III
+Code Wars includes support for the newest features in JavaScript, and it's also a great place to learn about writing Test Cases.
+
 *   [Code Wars - 7 kyu / Remaining Fundamentals](http://www.codewars.com/kata/search/javascript?beta=false&order_by=popularity+desc&q=&r=-7&tags=Fundamentals&xids=completed)
     * Free - 303 Challenges
 
 ### Intermediate JavaScript
+JS definitely has some confusing and interesting quirks, but learning about them is also very satisfying.
+
 *   [YouTube / LearnCode.Academy - JavaScript is Weird... and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     * Free - 5 Lessons (0.5 hours)
 *   [YouTube / Tony Alice - JavaScript: The Weird Parts (Preview)](https://youtu.be/Bv_5Zv5c-Ts)
@@ -207,16 +261,31 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 
 ## Back-End Development
+Back-end largely refers to putting together information and then sending it to a front-end page to be displayed.
+
+This is especially important for pages that you can log into, that that save a lot of information about its users and their activities, Facebook, Reddit, and Yelp.
 
 ### Deploying Back-End Web Apps
+Webpages which require a server are basically too complicated to deploy on GitHub Pages.
+
+Heroku and similar services can host server-side projects and serve them to users.
+
 *   [Udemy - The Web Dev Bootcamp / Unit 38: Deploying](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/4473706)
     * Paid ($35 Course) - 6 Lessons (1 hour)
 
 ### Node.js and Express.js
+JavaScript was originally only usable inside the client of a web browser. Node sets it free for use as a server-side language.
+
+Express makes it possible to write a server-side app more simply and with fewer lines of code.
+
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861568)
     * Paid ($35 Course) - 26 Lessons (5 hours), 4 Exercises
 
 ### MongoDB
+MongoDB and other databases are the main way to store data permanently, so the data aren't reset every time the program restarts.
+
+For example: Facebook friends lists, Netflix queues, and Reddit comments.
+
 *   [Udemy - The Web Dev Bootcamp / Units 26-31: Databases](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861630)
     * Paid ($35 Course) - 32 Lessons (6 hours), 1 Exercise
 *   [Udemy - The Web Dev Bootcamp / Units 32-36: YelpCamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861676)
