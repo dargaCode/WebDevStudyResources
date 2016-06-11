@@ -6,10 +6,10 @@
     * [Git and GitHub](#git-and-github)
 * [Front-End Development](#front-end-development)
     * [HTML and CSS](#html-and-css)
+    * [Deploying Front-End Websites](#deploying-front-end-websites)
     * [Bootstrap](#bootstrap)
     * [Basic JavaScript](#basic-javascript)
     * [Functional JavaScript](#functional-javascript)
-    * [Deploying Front-End Websites](#deploying-front-end-websites)
     * [Manipulate the DOM with "Vanilla" JavaScript](#manipulate-the-dom-with-vanilla-javascript)
     * [Manipulate the DOM with jQuery](#manipulate-the-dom-with-jquery)
     * [Regular Expressions](#regular-expressions)
@@ -96,6 +96,12 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Stack Overflow - How to Remove the Space Between inline-block Elements?](http://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-block-elements)
     * Free - Tutorial
 
+### Deploying Front-End Websites
+*   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
+    * Free - Blog Post
+*   [Codecademy - Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
+    * Free - 3 Units, 3 Lessons (4 hours)
+
 ### Bootstrap
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3908606)
     * Paid ($35 Course) - 11 Lessons (2 hours), 2 Exercises
@@ -132,12 +138,6 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Free - Blog Post
 *   [Youtube / Funfunfunction - Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
     * Free - 12 Lessons (2.5 hours)
-
-### Deploying Front-End Websites
-*   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
-    * Free - Blog Post
-*   [Codecademy - Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
-    * Free - 3 Units, 3 Lessons (4 hours)
 
 ### Manipulate the DOM with "Vanilla" JavaScript
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861434)
