@@ -1,11 +1,11 @@
 # Web Development Study Resources
 In my opinion, learning how to program itself isn't nearly as hard as deciding what to study, and where, and when.
 
-With that in mind, here's a list of the webdev resources I've found most useful thus far.
+With that in mind, here's a list of the webdev resources I've found most useful so far.
 
 The topics are sorted roughly chronologically, based on [several bootcamp curricula I've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience doing things in the wrong order. 
 
-There are some paid resources in this list, but I've only included the ones I've found valuable, and I've tried to mark them clearly. I don't receive any referral benefits or anything like that.
+There are some paid resources in this list, but I've only included the ones I've found valuable, and I've tried to mark them clearly. I don't receive referral benefits from any of these resources.
 
 ## Table of Contents
 * [Important Workflow Items](#important-workflow-items)
