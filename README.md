@@ -4,7 +4,6 @@
 * [Important Workflow Items](#important-workflow-items)
     * [The Command Line](#the-command-line)
     * [Git and GitHub](#git-and-github)
-    * [Chrome DevTools](#chrome-devtools)
 * [Front-End Development](#front-end-development)
     * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -58,10 +57,6 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [Tuts+ - Leveraging the Power of "git stash"](http://code.tutsplus.com/tutorials/quick-tip-leveraging-the-power-of-git-stash--cms-22988)
     * Free - Blog Post
 
-### Chrome DevTools
-*   [Code School - Discover Chrome DevTools](https://www.codeschool.com/courses/discover-devtools)
-    * Free - 7 Units, 17 Lessons (45 minutes), 81 Exercises
-
 ## Front-End Development
 
 ### HTML and CSS
@@ -82,6 +77,10 @@ Checking in code and deploying your own webpages will also allow you to get away
 *   [YouTube / EJ Media - CSS Layout Tutorial
 ](https://www.youtube.com/playlist?list=PLr6-GrHUlVf9ZleRsd5oTcrziNglndsXW)
     * Free - 19 Lessons (1.5 hours)
+*   [Code School - Discover DevTools / Unit 1: Elements](http://discover-devtools.codeschool.com/chapters/1?locale=en)
+    * Free - 2 Lessons (10 minutes), 10 Exercises
+*   [Code School - Discover DevTools / Unit 2: Sources](http://discover-devtools.codeschool.com/chapters/2?locale=en)
+    * Free - 1 Lesson (2 minutes), 3 Exercises
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
 *   [Liquidapsive - 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
@@ -113,6 +112,10 @@ Checking in code and deploying your own webpages will also allow you to get away
     * Paid ($35 Course) - 54 Lessons (6 hours), 19 Exercises
 *   [YouTube / EJ Media - JavaScript Tutorial for Beginners / Lessons 1-24](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
     * Free - 24 Lessons (1.5 hours)
+*   [Code School - Discover DevTools / Unit 3: Console](http://discover-devtools.codeschool.com/chapters/3?locale=en)
+    * Free - 3 Lessons (6 minutes), 11 Exercises
+*   [Code School - Discover DevTools / Unit 4: Debugging](http://discover-devtools.codeschool.com/chapters/4?locale=en)
+    * Free - 3 Lessons (7 minutes), 9 Exercises
 *   [James Padolsey - Truthy and Falsey](http://james.padolsey.com/javascript/truthy-falsey/)
     * Free - Blog Post
 *   [Wikipedia - Immediately-Invoked Function Expressions](https://en.wikipedia.org/wiki/Immediately-invoked_function_expression)
