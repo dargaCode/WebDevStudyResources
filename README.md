@@ -3,9 +3,9 @@ In my opinion, learning how to program itself isn't nearly as hard as deciding w
 
 With that in mind, here's a list of the webdev resources I've found most useful thus far.
 
-The topics are sorted roughly chronologically, based on [several bootcamp curricula i've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience.
+The topics are sorted roughly chronologically, based on [several bootcamp curricula I've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience doing things in the wrong order. 
 
-There are some paid resources in this list, but I've only included the ones I've found valuable and I've tried to mark them clearly. I don't receive any referral bonuses or anything of that nature.
+There are some paid resources in this list, but I've only included the ones I've found valuable, and I've tried to mark them clearly. I don't receive any referral benefits or anything like that.
 
 ## Table of Contents
 * [Important Workflow Items](#important-workflow-items)
@@ -30,11 +30,11 @@ There are some paid resources in this list, but I've only included the ones I've
     * [MongoDB](#mongodb)
 
 ## Important Workflow Items
-Both Command Line and Git/GitHub are usually presented toward the end of these resources, but I learned them beforehand and I'm glad I did.
+Both Command Line Interface and Git/GitHub are often presented toward the end of online classes, but I learned them beforehand and I'm glad I did.
 
-Basic knowledge of The Command Line and Git/GitHub can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks which you'll pick up over a long period of time. For both these reasons, it's a good idea to tackle these topics as early as you can.
+Basic knowledge of The CLI and Git can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks to pick up over months and months. For both these reasons, they're good topics to tackle as possible.
 
-Checking in code and deploying your own webpages will also allow you to get away from CodePen, Cloud9, and other online IDEs, which will require you to make sure all of your scripts are integrated properly etc. This is a lot more difficult at first, but extremely educational.
+Checking in code and deploying real webpages also allows development outside of CodePen, Cloud9, and other online editors. Making sure that all the scripts are integrated properly etc is a lot more difficult at first, but extremely educational.
 
 ### The Command Line
 Typing text commands into the console seems extremely arcane at first, but becomes familiar surprisingly quickly.
@@ -50,7 +50,7 @@ It's useful for Git, Node development, and lots of other things, and honestly it
     * Free - Blog Post
 
 ### Git and GitHub
-Back up your code to source control, collaborate with others, and show off your work.
+Git helps prevent loss of work, and GitHub makes it easy to collaborate and share work with others. 
 
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
     * Free - 25 Exercises (15 minutes)
@@ -73,7 +73,7 @@ Back up your code to source control, collaborate with others, and show off your 
 ## Front-End Development
 Most simply, front-end refers to the content that is actually presented on a webpage. The text, the images, the colors.
 
-For example: A portfolio website that contains your bio, links to all your projects, and photos.
+For example: A portfolio website that contains a bio, links to projects, and photos.
 
 ### HTML and CSS
 Build the structure of a webpage with HTML, and use CSS to dictate the layout and appearance.
@@ -117,9 +117,7 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - Tutorial
 
 ### Deploying Front-End Websites
-Take your webpages and actually put them on the internet where other people can see and use them.
-
-This will allow you to break out of online editors and begin using a local text editor etc.
+Take webpages and actually put them on the internet where other people can see and use them.
 
 *   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
     * Free - Blog Post
@@ -127,9 +125,9 @@ This will allow you to break out of online editors and begin using a local text 
     * Free - 3 Units, 3 Lessons (4 hours)
 
 ### Bootstrap
-Boostrap is mainly a ton of pre-built CSS classes, that you can slap onto your HTML instead of doing your own styling.
+Boostrap is mainly a ton of pre-built CSS classes to slap into HTML instead of writing custom CSS.
 
-I originally tried to learn it before understanding CSS well, which ended up being very confusing and frustrating. But now I do appreciate its usefulness for making quick prototypes etc.
+I originally tried to learn Bootstrap before understanding CSS well, which ended up being very confusing and frustrating. Over time I've come to appreciate its usefulness for making quick prototypes etc.
 
 *   [Udemy - The Web Dev Bootcamp / Unit 7: Bootstrap](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3908606)
     * Paid ($35 Course) - 11 Lessons (2 hours), 2 Exercises
@@ -137,9 +135,9 @@ I originally tried to learn it before understanding CSS well, which ended up bei
     * Free - Cheat sheet
 
 ### Basic JavaScript
-JS is the language that lets you reach into a webpge and mess with the content of the HTML and the styling of the CSS.
+JS is the only programming language that can reach into a webpage and modify content of the HTML and the styling of the CSS.
 
-Before doing that, it's a good idea to learn its basics, just like any other non-web programming language.
+This section covers its basic syntax and control structure structures, which must be learned first. 
 
 *   [Khan Academy - Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
     * Free - 53 Lessons, 33 Exercises, 4 Quizzes, 9 Projects
@@ -168,7 +166,7 @@ Before doing that, it's a good idea to learn its basics, just like any other non
 ### Functional JavaScript
 Using functional programming is one of those weird things in programming that's actually more easily done than described.
 
-Most of what FP means early on is just using functions to iterate through arrays, rather than writing loops all over the place.
+Most of what FP means early on is using functions to iterate through arrays, rather than writing loops all over the place. It's more readable, and less error-prone. 
 
 *   [Mind About JS - The Three JavaScript Musketeers](http://mindaboutjs.com/2015/07/18/the-three-javascript-musketeers/)
     * Free - Blog Post
@@ -178,7 +176,7 @@ Most of what FP means early on is just using functions to iterate through arrays
 ### Manipulate the DOM with "Vanilla" JavaScript
 The DOM is another concept that sounds scarier than it is.
 
-The Document-Object Model is just the content of a webpage, parsed into a JS Object so it can be manipulated via code.
+The Document-Object Model is just the content of a webpage, parsed into an object so that JS can read and manipulate it.
 
 *   [Udemy - The Web Dev Bootcamp / Units 13-14: DOM Manipulation](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861434)
     * Paid ($35 Course) - 15 Lessons (2.5 hours), 4 Exercises
@@ -188,7 +186,7 @@ The Document-Object Model is just the content of a webpage, parsed into a JS Obj
     * Free - 27 Lessons (2 hours)
 
 ### Manipulate the DOM with jQuery
-jQuery is a JavaScript library that mainly makes it simpler to manipulate the DOM without writing so much JS code.
+jQuery is a JavaScript library that mainly enables DOM manipulation with more tersely-written code.
 
 *   [Codecademy - Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website)
     * Free - 5 Units, 5 Lessons (5 hours)
@@ -203,9 +201,9 @@ jQuery is a JavaScript library that mainly makes it simpler to manipulate the DO
     * Free - 43 Lessons (2.5 hours)
 
 ### Regular Expressions
-Regular Expressions (Regex) are a way to easily parse some text and find all the places where a pattern is matched.
+Regular Expressions (Regex) are a way to easily parse some text and find all the places that match a given pattern.
 
-For example, you could match all the email addresses in a string, or all the phone numbers.
+For example, you could match all the email addresses in a string, or all the 5-letter names starting with "Ja".
 
 *   [Stack Overflow - Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
     * Free - Overview
@@ -241,7 +239,7 @@ Code Wars includes support for the newest features in JavaScript, and it's also 
     * Free - 303 Challenges
 
 ### Intermediate JavaScript
-JS definitely has some confusing and interesting quirks, but learning about them is also very satisfying.
+JS definitely has some interesting and potentially-confusing quirks, but learning about them is very satisfying.
 
 *   [YouTube / LearnCode.Academy - JavaScript is Weird... and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     * Free - 5 Lessons (0.5 hours)
@@ -261,12 +259,12 @@ JS definitely has some confusing and interesting quirks, but learning about them
     * Free - Blog Post
 
 ## Back-End Development
-Back-end largely refers to putting together information and then sending it to a front-end page to be displayed.
+Back-end largely refers to putting together information dynamically before sending it to the browser to be displayed.
 
-This is especially important for pages that you can log into, that that save a lot of information about its users and their activities, Facebook, Reddit, and Yelp.
+This is especially important for pages that you can log into, and that that save a lot of information about its users and their activities. For example: Facebook, Reddit, and Yelp.
 
 ### Deploying Back-End Web Apps
-Webpages which require a server are basically too complicated to deploy on GitHub Pages.
+Webpages which require a server are basically too complicated to deploy the same way as a front-end page.
 
 Heroku and similar services can host server-side projects and serve them to users.
 
@@ -276,7 +274,7 @@ Heroku and similar services can host server-side projects and serve them to user
 ### Node.js and Express.js
 JavaScript was originally only usable inside the client of a web browser. Node sets it free for use as a server-side language.
 
-Express makes it possible to write a server-side app more simply and with fewer lines of code.
+Express makes it possible to write a server-side Node app more simply and tersely.
 
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861568)
     * Paid ($35 Course) - 26 Lessons (5 hours), 4 Exercises
