@@ -1,11 +1,11 @@
 # Web Development Study Resources
-In my opinion, learning how to program itself isn't nearly as hard as deciding what to study, and where, and when.
+In my experience, learning how to program itself isn't nearly as hard as deciding what to study, and where, and when.
 
 With that in mind, here's a list of the webdev resources I've found most useful so far.
 
-The topics are sorted roughly chronologically, based on [several bootcamp curricula I've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience doing things in the wrong order. 
+The topics are ordered based on [several bootcamp curricula I've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience tackling things in what I feel was the wrong order. 
 
-There are some paid resources in this list, but I've only included the ones I've found valuable, and I've tried to mark them clearly. I don't receive referral benefits from any of these resources.
+There are some paid resources in this list, but I've only included the ones I've found valuable, and I've tried to mark them clearly. I don't receive any referral benefits from these resources.
 
 ## Table of Contents
 * [Important Workflow Items](#important-workflow-items)
@@ -71,12 +71,12 @@ Git helps prevent loss of work, and GitHub makes it easy to collaborate and shar
     * Free - Blog Post
 
 ## Front-End Development
-Most simply, front-end refers to the content that is actually presented on a webpage. The text, the images, the colors.
+Most simply, "front-end" refers to the content that is actually presented on a webpage. The text, the images, the colors.
 
 For example: A portfolio website that contains a bio, links to projects, and photos.
 
 ### HTML and CSS
-Build the structure of a webpage with HTML, and use CSS to dictate the layout and appearance.
+HTML builds the structure of a webpage, and CSS dictates its layout and appearance.
 
 I originally tried learning HTML a long time ago, and was pleasantly surprised to see that all the layout is now handled by CSS rules rather than horrible nested tables and frames.
 
@@ -117,7 +117,7 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - Tutorial
 
 ### Deploying Front-End Websites
-Take webpages and actually put them on the internet where other people can see and use them.
+Deployment is putting webpages on the internet where other people can actually see and use them.
 
 *   [Team Treehouse - Using GitHub Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
     * Free - Blog Post
@@ -125,7 +125,7 @@ Take webpages and actually put them on the internet where other people can see a
     * Free - 3 Units, 3 Lessons (4 hours)
 
 ### Bootstrap
-Boostrap is mainly a ton of pre-built CSS classes to slap into HTML instead of writing custom CSS.
+Boostrap is mainly a ton of pre-built CSS classes which can be applied directly to HTML instead of writing custom CSS.
 
 I originally tried to learn Bootstrap before understanding CSS well, which ended up being very confusing and frustrating. Over time I've come to appreciate its usefulness for making quick prototypes etc.
 
@@ -135,9 +135,9 @@ I originally tried to learn Bootstrap before understanding CSS well, which ended
     * Free - Cheat sheet
 
 ### Basic JavaScript
-JS is the only programming language that can reach into a webpage and modify content of the HTML and the styling of the CSS.
+JavaScript is the only programming language that can reach into a webpage and modify the content of the HTML or the styling of the CSS.
 
-This section covers its basic syntax and control structure structures, which must be learned first. 
+This section covers its basic syntax and control structures, which must be learned first. 
 
 *   [Khan Academy - Intro to JS](https://www.khanacademy.org/computing/computer-programming/programming)
     * Free - 53 Lessons, 33 Exercises, 4 Quizzes, 9 Projects
@@ -166,7 +166,7 @@ This section covers its basic syntax and control structure structures, which mus
 ### Functional JavaScript
 Using functional programming is one of those weird things in programming that's actually more easily done than described.
 
-Most of what FP means early on is using functions to iterate through arrays, rather than writing loops all over the place. It's more readable, and less error-prone. 
+Most of what FP means (at least early on) is using functions to iterate through arrays, rather than writing loops all over the place. It's more readable, and less error-prone. 
 
 *   [Mind About JS - The Three JavaScript Musketeers](http://mindaboutjs.com/2015/07/18/the-three-javascript-musketeers/)
     * Free - Blog Post
@@ -203,7 +203,7 @@ jQuery is a JavaScript library that mainly enables DOM manipulation with more te
 ### Regular Expressions
 Regular Expressions (Regex) are a way to easily parse some text and find all the places that match a given pattern.
 
-For example, you could match all the email addresses in a string, or all the 5-letter names starting with "Ja".
+For example, matching all the email addresses in a string, or all the 5-letter names starting with "Ja".
 
 *   [Stack Overflow - Learning Regular Expressions](http://stackoverflow.com/questions/4736/learning-regular-expressions)
     * Free - Overview
@@ -259,14 +259,14 @@ JS definitely has some interesting and potentially-confusing quirks, but learnin
     * Free - Blog Post
 
 ## Back-End Development
-Back-end largely refers to putting together information dynamically before sending it to the browser to be displayed.
+"Back-end" largely refers to gathering and assembling information on the server side, before sending it to the browser to be displayed.
 
-This is especially important for pages that you can log into, and that that save a lot of information about its users and their activities. For example: Facebook, Reddit, and Yelp.
+The archetypical back-end pages are those that users can log into, and which store a lot of information about its users and their activities. For example: Facebook, Reddit, and Yelp.
 
 ### Deploying Back-End Web Apps
-Webpages which require a server are basically too complicated to deploy the same way as a front-end page.
+Webpages which require a server are basically too complicated to be deployed the same way as a simpler front-end page.
 
-Heroku and similar services can host server-side projects and serve them to users.
+Heroku and similar services can host server-side projects (also called "apps") and serve them to users.
 
 *   [Udemy - The Web Dev Bootcamp / Unit 38: Deploying](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/4473706)
     * Paid ($35 Course) - 6 Lessons (1 hour)
@@ -274,13 +274,13 @@ Heroku and similar services can host server-side projects and serve them to user
 ### Node.js and Express.js
 JavaScript was originally only usable inside the client of a web browser. Node sets it free for use as a server-side language.
 
-Express makes it possible to write a server-side Node app more simply and tersely.
+Express is a JS framework that makes it possible to write a server-side Node app more simply and tersely.
 
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861568)
     * Paid ($35 Course) - 26 Lessons (5 hours), 4 Exercises
 
 ### MongoDB
-MongoDB and other databases are the main way to store data permanently, so the data aren't reset every time the program restarts.
+MongoDB and other databases are the main way that sites store data permanently, so the data won't be reverted every time the program restarts.
 
 For example: Facebook friends lists, Netflix queues, and Reddit comments.
 
