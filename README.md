@@ -109,6 +109,8 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - 19 Lessons
 *   [Barely Fitz - Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
     * Free - 9 Lessons, interactive examples
+*   [General Assembly - Build a Custom Tumblr Theme](https://dash.generalassemb.ly/projects/tumblr)
+    * Free - 6 units, 60 Exercises (3 hours)
 *   [CSS Tricks - Box Sizing](https://css-tricks.com/box-sizing/)
     * Free - Blog Post
 *   [Stack Overflow - When to use HTML &lt;img&gt; vs CSS background-image property?](http://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image)
