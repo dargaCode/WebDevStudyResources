@@ -3,7 +3,7 @@ In my experience, learning how to program itself isn't nearly as hard as decidin
 
 With that in mind, here's a list of the webdev resources I've found most useful so far.
 
-The topics are ordered based on [several bootcamp curricula I've gathered](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646), as well as my own experience tackling things in what I feel was the wrong order. 
+The topics are ordered based on [several bootcamp curricula](https://docs.google.com/spreadsheets/d/1sF3QfsbIqvHU9voigpPKD4BavspHQ_K0GeR0Hl3JE_0/edit#gid=1911839646) I've gathered, as well as my own experience tackling things in what I feel was the wrong order. 
 
 There are some paid resources in this list, but I've only included the ones I've found valuable, and I've tried to mark them clearly. I don't receive any referral benefits from these resources.
 
