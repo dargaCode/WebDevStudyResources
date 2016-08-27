@@ -46,7 +46,7 @@ It's useful for Git, Node development, and lots of other things, and honestly it
     * Paid ($20/Month) - 4 Quizzes, 7 Projects
 *   [Udemy - The Web Dev Bootcamp / Unit 21: The Command Line](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3925818)
     * Paid ($35 Course) - 5 Lessons (45 minutes), 1 Exercise
-*   [The Linux Juggernaut - Absolute path vs relative path in Linux/Unix](http://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/)
+*   [dargaCode - “mkdir /data” and “mkdir data” are NOT the Same](http://blog.dargacode.com/post/144129893311/mkdir-data-and-mkdir-data-are-not-the-same)
     * Free - Blog Post
 
 ### Git and GitHub
