@@ -282,6 +282,8 @@ Express is a JS framework that makes it possible to write a server-side Node app
 
 *   [Udemy - The Web Dev Bootcamp / Units 22-25: Node & Express](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861568)
     * Paid ($35 Course) - 26 Lessons (5 hours), 4 Exercises
+*   [dargaCode - Custom EJS Delimiter](http://blog.dargacode.com/post/143421307771/custom-ejs-delimiter)
+    * Free - Blog Post
 
 ### MongoDB
 MongoDB and other databases are the main way that sites store data permanently, so the data won't be reverted every time the program restarts.
