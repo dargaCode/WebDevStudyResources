@@ -261,6 +261,8 @@ JS definitely has some interesting and potentially-confusing quirks, but learnin
     * Free - Blog Post
 *   [2ality - Tail Call Optimization in ES6](http://www.2ality.com/2015/06/tail-call-optimization.html)
     * Free - Blog Post
+*   [Todd Motto - Mastering the JS Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
+    * Free - Blog Post
 
 ## Back-End Development
 "Back-end" largely refers to gathering and assembling information on the server side, before sending it to the browser to be displayed.
