@@ -263,6 +263,8 @@ JS definitely has some interesting and potentially-confusing quirks, but learnin
     * Free - Blog Post
 *   [Todd Motto - Mastering the JS Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
     * Free - Blog Post
+*   [YouTube / Kyle Robinson Young - Mastering JavaScript Callbacks](https://youtu.be/qN0dkXj7jc0)
+    * Free - 1 Lesson (15 minutes)
 
 ## Back-End Development
 "Back-end" largely refers to gathering and assembling information on the server side, before sending it to the browser to be displayed.
