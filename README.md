@@ -247,7 +247,7 @@ JS definitely has some interesting and potentially-confusing quirks, but learnin
 
 *   [YouTube / LearnCode.Academy - JavaScript is Weird... and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     * Free - 5 Lessons (0.5 hours)
-*   [YouTube / Tony Alice - JavaScript: The Weird Parts (Preview)](https://youtu.be/Bv_5Zv5c-Ts)
+*   [YouTube / Tony Alicea - JavaScript: The Weird Parts (Preview)](https://youtu.be/Bv_5Zv5c-Ts)
     * Free - 31 Lessons (3.5 hours)
 *   [Udemy / Tony Alicea - Javascript: The Weird Parts](http://learnwebdev.net/)
     * Paid ($19 Course) - 80 Lessons (11.5 hours)
