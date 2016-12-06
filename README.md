@@ -32,7 +32,7 @@ There are some paid resources in this list, but I've only included the ones I've
 ## Important Workflow Items
 Both Command Line Interface and Git/GitHub are often presented toward the end of online classes, but I learned them beforehand and I'm glad I did.
 
-Basic knowledge of The CLI and Git can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks to pick up over months and months. For both these reasons, they're good topics to tackle as possible.
+Basic knowledge of The CLI and Git can do a lot to improve day-to-day quality of life, and they both also have a lot of small tricks to pick up over months and months. For both these reasons, they're good topics to tackle as early as possible.
 
 Checking in code and deploying real webpages also allows development outside of CodePen, Cloud9, and other online editors. Making sure that all the scripts are integrated properly etc is a lot more difficult at first, but extremely educational.
 
