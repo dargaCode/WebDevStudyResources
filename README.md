@@ -1,3 +1,7 @@
+###*My Other Resource Lists*
+* *[Portfolio Examples](https://github.com/dargaCode/PortfolioExamples)*
+* *[Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)*
+
 # Web Development Study Resources
 In my experience, learning how to program itself isn't nearly as hard as deciding what to study, and where, and when.
 
