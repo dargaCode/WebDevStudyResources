@@ -1,4 +1,4 @@
-###*My Other Resource Lists*
+###My Other Resource Lists
 * *[Portfolio Examples](https://github.com/dargaCode/PortfolioExamples)*
 * *[Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)*
 
