@@ -251,6 +251,10 @@ JS definitely has some interesting and potentially-confusing quirks, but learnin
 
 *   [YouTube / LearnCode.Academy - JavaScript is Weird... and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
     * Free - 5 Lessons (0.5 hours)
+*   [YouTube / Java Brains - JavaScript Scopes and Closures In-Depth](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)
+    * Free - 23 Lessons (2.5 hours)
+*   [YouTube / Java Brains - JavaScript Objects and Prototypes In-Depth](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+    * Free - 19 Lessons (2.5 hours)
 *   [YouTube / Tony Alicea - JavaScript: The Weird Parts (Preview)](https://youtu.be/Bv_5Zv5c-Ts)
     * Free - 31 Lessons (3.5 hours)
 *   [Udemy / Tony Alicea - Javascript: The Weird Parts](http://learnwebdev.net/)
