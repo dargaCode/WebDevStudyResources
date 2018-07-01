@@ -105,6 +105,8 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - 2 Lessons (10 minutes), 10 Exercises
 *   [Code School - Discover DevTools / Unit 2: Sources](http://discover-devtools.codeschool.com/chapters/2?locale=en)
     * Free - 1 Lesson (2 minutes), 3 Exercises
+*   [CSS Diner - Where we Feast on Selectors](https://flukeout.github.io/)
+    * Free - Game, 32 Levels
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
 *   [Liquidapsive - 1 site styled with multiple layout types, for comparison](http://www.liquidapsive.com/)
