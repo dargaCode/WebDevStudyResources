@@ -105,7 +105,7 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - 2 Lessons (10 minutes), 10 Exercises
 *   [Code School - Discover DevTools / Unit 2: Sources](http://discover-devtools.codeschool.com/chapters/2?locale=en)
     * Free - 1 Lesson (2 minutes), 3 Exercises
-*   [CSS Diner - Where we Feast on Selectors](https://flukeout.github.io/)
+*   [Luke Pacholski - CSS Diner](https://flukeout.github.io/)
     * Free - Game, 32 Levels
 *   [NthMaster - Master the :nth-child Selectors](http://nthmaster.com/)
     * Free - Cheat sheet, 11 examples
@@ -115,6 +115,8 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - 19 Lessons
 *   [Barely Fitz - Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
     * Free - 9 Lessons, interactive examples
+*   [Geddski Mastery Games - Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+    * Free - Game, 168 Levels
 *   [General Assembly - Build a Custom Tumblr Theme](https://dash.generalassemb.ly/projects/tumblr)
     * Free - 6 units, 60 Exercises (3 hours)
 *   [CSS Tricks - Box Sizing](https://css-tricks.com/box-sizing/)
