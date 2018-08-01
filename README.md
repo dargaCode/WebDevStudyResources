@@ -125,7 +125,7 @@ I originally tried learning HTML a long time ago, and was pleasantly surprised t
     * Free - Tutorial
 *   [Stack Overflow - How to Remove the Space Between inline-block Elements?](http://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-block-elements)
     * Free - Tutorial
-*   [Darga Code - CSS Margin Collapsing, another dangerous "unknown unknown"] (http://blog.dargacode.com/post/148715151721/css-margin-collapsing-another-dangerous-unknown)
+*   [Darga Code - CSS Margin Collapsing, another dangerous "unknown unknown"](http://blog.dargacode.com/post/148715151721/css-margin-collapsing-another-dangerous-unknown)
     * Free - Blog Post  
 
 ### Deploying Front-End Websites
