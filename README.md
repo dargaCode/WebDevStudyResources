@@ -32,6 +32,7 @@ There are some paid resources in this list, but I've only included the ones I've
     * [Deploying Back-End Web Apps](#deploying-back-end-web-apps)
     * [Node.js and Express.js](#nodejs-and-expressjs)
     * [MongoDB](#mongodb)
+* [Negotiating Job Offers](#negotiating-job-offers)
 
 ## Important Workflow Items
 Both Command Line Interface and Git/GitHub are often presented toward the end of online classes, but I learned them beforehand and I'm glad I did.
@@ -310,3 +311,20 @@ For example: Facebook friends lists, Netflix queues, and Reddit comments.
     * Paid ($35 Course) - 32 Lessons (6 hours), 1 Exercise
 *   [Udemy - The Web Dev Bootcamp / Units 32-36: YelpCamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861676)
     * Paid ($35 Course) - 26 Exercises (5 hours)
+
+## Negotiating Job Offers
+
+* [Penelope Trunk - 4 tips for salary negotiation](http://blog.penelopetrunk.com/2003/12/11/4-tips-for-salary-negotiation/)
+    * Free - Blog Post
+* [WorkMonger - 6 steps for negotiating your next job offer](https://workmonger.com/6-simple-steps-for-negotiating-your-next-job-offer/)
+    * Free - Blog Post
+* [Harvard - BATNA essentials](https://www.pon.harvard.edu/daily/batna/bargaining-tips-batna-essentials/)
+    * Free - Blog Post
+* [Interviewing.io - What to say when recruiters ask you for a number](http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/)
+    * Free - Blog Post
+* [Haseeb Qureshi - 10 rules for negotiating, part 1](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+    * Free - Blog Post
+* [Haseeb Qureshi - 10 rules for negotiating - part 2](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
+    * Free - Blog Post
+* [Patrick McKinzie - Make more money, be more valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+    * Free - Blog Post
