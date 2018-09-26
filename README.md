@@ -313,6 +313,7 @@ For example: Facebook friends lists, Netflix queues, and Reddit comments.
     * Paid ($35 Course) - 26 Exercises (5 hours)
 
 ## Negotiating Job Offers
+The earlier in your career that you can become comfortable negotiating, the more successful and well-compensated you will be. 
 
 * [Penelope Trunk - 4 tips for salary negotiation](http://blog.penelopetrunk.com/2003/12/11/4-tips-for-salary-negotiation/)
     * Free - Blog Post
