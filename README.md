@@ -22,6 +22,7 @@ There are some paid resources in this list, but I've only included the ones I've
     * [Functional JavaScript](#functional-javascript)
     * [Manipulate the DOM with "Vanilla" JavaScript](#manipulate-the-dom-with-vanilla-javascript)
     * [Manipulate the DOM with jQuery](#manipulate-the-dom-with-jquery)
+    * [Manipulate the DOM with React](#manipulate-the-dom-with-React)
     * [Regular Expressions](#regular-expressions)
     * [JavaScript Challenges I](#javascript-challenges-i)
     * [JavaScript Challenges II](#javascript-challenges-ii)
@@ -198,7 +199,7 @@ The Document-Object Model is just the content of a webpage, parsed into an objec
     * Free - 27 Lessons (2 hours)
 
 ### Manipulate the DOM with jQuery
-jQuery is a JavaScript library that mainly enables DOM manipulation with more tersely-written code.
+jQuery is a JavaScript library that primarily enables DOM manipulation with more tersely-written code.
 
 *   [Codecademy - Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website)
     * Free - 5 Units, 5 Lessons (5 hours)
@@ -211,6 +212,12 @@ jQuery is a JavaScript library that mainly enables DOM manipulation with more te
     * Paid ($35 Course) - 9 Lessons (1 hour)
 *   [YouTube / EJ Media - jQuery Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
     * Free - 43 Lessons (2.5 hours)
+
+### Manipulate the DOM with React
+React is a JavaScript library that primarily enables creation of Single-Page Applications (SPAs).
+
+*   [YouTube / Delba de Oliveira - Getting Started with React (Next.js Conf 2021)](https://youtu.be/jsYBiB6Vt9w)
+    * Free - 1 Lessons (0.25 hours)
 
 ### Regular Expressions
 Regular Expressions (Regex) are a way to easily parse some text and find all the places that match a given pattern.
