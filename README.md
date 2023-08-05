@@ -41,7 +41,7 @@ I was 35 years old when I began my career change to coding and started gathering
 * [Praxent - Coding Information and Resources for Kids](https://praxent.com/blog/coding-information-resources-for-kids)
   * Free - Blog Post
 
-<img src="thanks.svg" width="450" height="63"/>
+<img src="thanks.svg" width="500" height="72"/>
 
 ## Important Workflow Items
 Both Command Line Interface and Git/GitHub are often presented toward the end of online classes, but I learned them beforehand and I'm glad I did.
