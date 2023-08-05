@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 550 75"  xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <style>
+            .container {
+                color:white;
+                background-color: #00AE58;
+                padding: 10px;
+                border: 1px solid white;
+                display: flex;
+                align-content: space-between;
+                align-items: center;
+                gap: 10px;
+                width: fit-content;
+            }
+
+            .center-column {
+                max-width: 450px;
+                text-align: center;
+            }
+
+            .left-column {
+                min-width: 80px;
+                text-align: right;
+                font-size:1.6em;
+            }
+
+            .right-column {
+                min-width: 80px;
+                font-size:1.6em;
+            }
+        </style>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div class="left-column">
+                ✨️🎖🌟
+            </div>
+            <div class="center-column">
+                Special thank you to <strong>Emma</strong> and the rest of <strong>Ms. B's Junior Girl Scout Troop</strong> from Alabama, for submitting this helpful resource!
+            </div>
+            <div class="right-column">
+                🌟🎖✨
+            </div>
+        </div>
+    </foreignObject>
+</svg>
